@@ -1,0 +1,27 @@
+{
+  "name": "google-image-query",
+  "version": "1.0.3",
+  "description": "search query in google image",
+  "main": "google-image-query.js",
+  "dependencies": {
+    "https": "^1.0.0",
+    "util": "^0.10.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node google-image-test.js \"apple\" 3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/becxer/google-image-query.git"
+  },
+  "keywords": [
+    "google"
+  ],
+  "author": "becxer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/becxer/google-image-query/issues"
+  },
+  "homepage": "https://github.com/becxer/google-image-query"
+}
